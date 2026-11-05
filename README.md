@@ -1,6 +1,3 @@
-# UTS-studentapp2
-Kelompok 1 Pemrograman Aplikasi Bergerak
- 
 # StudentApp
 
 **Kelompok 2 – Pemrograman Aplikasi Bergerak**
@@ -9,24 +6,19 @@ Aplikasi StudentApp merupakan aplikasi mobile untuk mengelola informasi mahasisw
 
 ## Tampilan Aplikasi
 
-### 1. Halaman Login
+### 1. Halaman Beranda
+![Halaman Beranda](<images/halaman beranda.jpeg>)
 
-![Layar Login](images/login.jpeg)
+### 2. Halaman Edit
+![Halaman Edit](<images/halaman edit.jpeg>)
 
-### 2. Halaman Beranda
+### 3. Halaman Hapus
+![Halaman Hapus](<images/halaman hapus.jpeg>)
 
-![Layar Beranda](images/beranda.jpeg)
-
-### 3. Halaman Kursus
-
-![Layar Kursus](images/kursus.jpeg)
-
-### 4. Halaman Profil
-
-![Layar Profil](images/profil.jpeg)
+### 4. Halaman Mata Kuliah
+![Halaman Mata Kuliah](<images/halaman mata kuliah.jpeg>)
 
 ## Teknologi
-
 - React Native
 - JavaScript
 - AsyncStorage
