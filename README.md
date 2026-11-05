@@ -10,7 +10,7 @@ StudentApp merupakan aplikasi berbasis mobile yang dikembangkan untuk membantu p
 ![Halaman Beranda](images/halaman%20beranda.jpeg)
 
 ### 2. Halaman Edit
-![Halaman Edit](images/halaman%20edit.jpeg)
+![Halaman Edit](images/halaman-edit.jpeg)
 
 ### 3. Halaman Hapus
 ![Halaman Hapus](images/halaman%20hapus.jpeg)
